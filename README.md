@@ -31,7 +31,7 @@ Drowsiness-Detection-System/
   *Extract and place it in the Code/ directory.
 2. **Installation**
 Clone the repository:
-    git clone https://github.com/yourusername/Drowsiness-Detection-System.git
+    git clone https://github.com/NaveenCodeCraft/Drowsiness-Detection-System.git
     cd Drowsiness-Detection-System/Code
 Install dependencies:
     pip install -r requirements.txt
